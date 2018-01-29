@@ -1,0 +1,6 @@
+
+Problèmes de conversion au format .odt (Open Document Text):
+- la mise en forme des tableaux Word (utilisés notamment pour certains schémas de circuits intégrés) n'est pas respectée. 
+   En particulier, on constate souvent un changement de hauteur de ligne, qui entraîne une modification de la mise en page
+   et décale la pagination du document entier
+- il est IMPOSSIBLE (avec LibreOffice 5) de modifier les hauteurs de ligne de certains tableaux, et donc de corriger les problèmes
